@@ -15,15 +15,14 @@ st.markdown("""
         background-color: #f5f7f9;
     }
     .stMetric {
-        background-color: #ffffff;
+        background-color: #737374;
         padding: 15px;
         border-radius: 10px;
         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
     }
     h1, h2, h3 {
         font-family: 'Inter', sans-serif;
-        color: #1e293b;
-    }
+        color: #737374;
     </style>
     """, unsafe_allow_html=True)
 
