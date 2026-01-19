@@ -103,6 +103,9 @@ Dashboard akan terbuka di browser pada `http://localhost:8501`
 # Atau gunakan Task Manager untuk kill process streamlit.exe
 ```
 
+### Akses langsung
+https://bandung-walkability-analysis.streamlit.app/
+
 ##  Struktur File
 
 ```

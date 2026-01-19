@@ -4,7 +4,7 @@
 
 Dashboard Walkability Bandung adalah aplikasi web interaktif yang memungkinkan Anda untuk mengeksplorasi dan menganalisis tingkat kemudahan berjalan kaki (walkability) di berbagai wilayah Kota Bandung.
 
-Link akses: 
+Link akses: [text](https://bandung-walkability-analysis.streamlit.app/)
 
 ## Navigasi Dashboard
 
