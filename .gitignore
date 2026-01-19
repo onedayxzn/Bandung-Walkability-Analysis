@@ -1,0 +1,104 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Output Files (Data Besar)
+output/
+*.geojson
+*.csv
+*.html
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+
+# OSMnx Cache
+cache/
+.osmnx_cache/
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+run_debug.txt
+join_debug.txt
+
+# Temporary Files
+*.tmp
+*.temp
+debug_*.py
+test_*.py
+verify_*.py
+check_*.py
+audit_*.py
+fix_*.py
+cwd_check.py
+coord_check.py
+diagnostic.py
+amenity_debug.py
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Backup Files
+*.bak
+*.backup
+*~
+
+# Large Media Files (jika ada)
+*.mp4
+*.avi
+*.mov
+
+# Credentials (jika ada)
+.env
+.env.local
+credentials.json
+config.ini
+
+# Specific to this project
+debug_boundaries.py
+debug_kelurahan.geojson
