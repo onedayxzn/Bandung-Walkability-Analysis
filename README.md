@@ -226,7 +226,6 @@ streamlit run app.py --server.port 8502
 - **Walkability Metrics**: Frank, L. D., et al. (2010). The development of a walkability index: application to the Neighborhood Quality of Life Study. *British Journal of Sports Medicine*, 44(13), 924-933.
 
 
-
 ##  Kontributor
 
 Dikembangkan menggunakan:

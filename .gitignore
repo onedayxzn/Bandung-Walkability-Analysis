@@ -42,16 +42,6 @@ venv.bak/
 .ipynb_checkpoints
 *.ipynb
 
-# Output Files (Data Besar)
-output/
-*.geojson
-*.csv
-*.html
-*.shp
-*.shx
-*.dbf
-*.prj
-*.cpg
 
 # OSMnx Cache
 cache/
@@ -102,3 +92,4 @@ config.ini
 # Specific to this project
 debug_boundaries.py
 debug_kelurahan.geojson
+MEDIUM_ARTICLE.md
